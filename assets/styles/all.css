@@ -1,0 +1,10 @@
+#top-header {
+	background: #fff;
+}
+#top-header .right {
+	font-size: 12px;
+	text-decoration: none;
+}
+#img-header {
+	background: url(../images/family.png);
+}
